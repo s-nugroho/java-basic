@@ -16,7 +16,7 @@ class A {
 
 class B extends A {
 
-    // this method will automaticly overide the parent method
+    // this method will automaticly overide the parent method 
     public void makanAyam() {
         System.out.println("Mmmmm . . . . ., ENAK CCOK");
     }
